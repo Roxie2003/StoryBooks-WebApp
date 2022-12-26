@@ -8,7 +8,7 @@ module.exports = function (passport) {
       {
         clientID: process.env.GOOGLE_CLIENT_ID,
         clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-        callbackURL: '/auth/google/callback'
+        callbackURL: 'https://8080-cs-72947ee4-72c7-4150-9065-74d2a70a6914.cs-asia-southeast1-ajrg.cloudshell.dev/auth/google/callback'
       },
       async (accessToken, refreshToken, profile, done) => {
         const newUser = {
