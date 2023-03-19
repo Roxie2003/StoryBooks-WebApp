@@ -12,7 +12,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Technologies](#technologies)
 - [Usage](#usage)
 
-## Installation ⚙
+## Installation  ⚙
 
 - Download or Clone Repository
 - run `npm install`
@@ -29,16 +29,17 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-This App has pretty self explanatory UI.
+- Login (Google OAuth)
+![image](assets/images/Screenshot%20(1).png)
 
 - Dashboard
-![image](assets/images/Screenshot (1).png)
+![image](assets/images/Screenshot%20(2).png)
 
 - Public Stories
-![image](assets/images/Screenshot (2).png)
+![image](assets/images/Screenshot%20(3).png)
 
 - Add Story
-![image](assets/images/Screenshot (3).png)
+![image](assets/images/Screenshot%20(4).png)
 
 - View Story
-![image](assets/images/Screenshot (4).png)
+![image](assets/images/Screenshot%20(5).png)
