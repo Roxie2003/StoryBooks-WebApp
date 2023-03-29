@@ -1,4 +1,4 @@
-# KOCKDiary 🎡
+# LOCKDiary 🎡
 
 ## Description 📝
 
