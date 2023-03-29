@@ -1,4 +1,4 @@
-# StoryBooks 🎡
+# KOCKDiary 🎡
 
 ## Description 📝
 
